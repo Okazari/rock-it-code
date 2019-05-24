@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PresentationText /> Snapshots should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa khUSez"
+  >
+    <h1
+      class="sc-bwzfXH ecxRwC"
+    >
+      Welcome to Rock it Code
+    </h1>
+    <h2
+      class="sc-htpNat jTCRcv"
+    >
+      Simply paste your code in the editor below, press play and let it rock
+    </h2>
+  </div>
+</div>
+`;
